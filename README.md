@@ -1,18 +1,10 @@
-# Skunk Trap Troubleshooter
-
+# THETA Gyroscope
 
 Thanks to  [KAZ](https://twitter.com/yokazuya_jp) for a great article on
 this subject [in Japanese](https://qiita.com/yokazuya/items/f36e5a2252bf32b0c18b).
 
-![skunk trap](images/skunktrap.jpeg)
+Access the internal gyroscope and magnetic field (eCompass) sensor of the THETA
 
-## Usage
+Use sensor data in a creative way to take a picture
 
-* Drill hole in trap cover to allow 1/4" by 20tpi bolt to pass through
-* Use extension to enable THETA to be powered by USB cable
-* Mount THETA upside down on the trap door
-
-![theta mounting](images/skunktrap-wire.jpeg)
-
-Picture will trigger once THETA is moved by either pitch or roll by a 
-threshold.  Currently set to +/- 0.8.
+Example: animal photo trap, dog door security, commercial vehicle dash cam, party “fun” cam to take pictures of you and your friends when you jump in the air
