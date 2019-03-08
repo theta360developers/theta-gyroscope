@@ -1,9 +1,9 @@
-# THETA Gyroscope
+# THETA Orientation
 
 Thanks to  [KAZ](https://twitter.com/yokazuya_jp) for a great article on
 this subject [in Japanese](https://qiita.com/yokazuya/items/f36e5a2252bf32b0c18b).
 
-Access the internal gyroscope and magnetic field (eCompass) sensor of the THETA
+Access the internal accelerometer and magnetic field (eCompass) sensor of the THETA
 
 Use sensor data in a creative way to take a picture
 
