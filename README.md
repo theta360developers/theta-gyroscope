@@ -3,6 +3,8 @@
 Thanks to  [KAZ](https://twitter.com/yokazuya_jp) for a great article on
 this subject [in Japanese](https://qiita.com/yokazuya/items/f36e5a2252bf32b0c18b).
 
+![orientation](images/theta_example4.png)
+
 Access the internal accelerometer and magnetic field (eCompass) sensor of the THETA
 
 Use sensor data in a creative way to take a picture
